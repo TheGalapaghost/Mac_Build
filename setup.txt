@@ -1,0 +1,3 @@
+from distutils.core import setup 
+import py2app 
+setup(console=["Globalair_scraping v2.py"]) #filename is the name of .py file to be converted. 
